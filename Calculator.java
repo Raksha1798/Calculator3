@@ -27,6 +27,10 @@ public class Calculator {
 	{
 		return i/j;
 	}
+	public int modulo(int i,int j)
+	{
+		return i%j;
+	}
 	public int getIn1() {
 		return in1;
 	}
